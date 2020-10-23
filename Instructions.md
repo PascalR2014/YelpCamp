@@ -1,6 +1,6 @@
 # A LIRE ATTENTIVEMENT
 
-** Il est fortement recommandé d'apprendre les bases de ces technologies avant d'en modifier le code source. A savoir vous devez comprendre et manipuler des fichiers HTML et CSS ainsi que Javascript. **
+**Il est fortement recommandé d'apprendre les bases de ces technologies avant d'en modifier le code source. A savoir vous devez comprendre et manipuler des fichiers HTML et CSS ainsi que Javascript.**
 
 ## Le projet Yelpcamp
 
@@ -62,7 +62,7 @@ Bravo !!
 
 ![Formation pour développer un projet avec NodeJs & ExpressJs](https://monsite.fr)
 
-** ATTENTION ce site et ces cours n'existent pas encore. **  
+**ATTENTION ce site et ces cours n'existent pas encore.**  
 
 
 
