@@ -60,9 +60,9 @@ Bravo !!
 
 (Les instructions qui suivent sont réservés à mes élèves.)
 
-![Formation pour développer un projet avec NodeJs & ExpressJs](https://monsite.fr)
+![Formation en cours d'élaboration NodeJs & ExpressJs](https://monsite.fr)
 
-**ATTENTION ce site et ces cours n'existent pas encore.**  
+**ATTENTION ce site et ce cours sont en cours d'élaboration merci !**  
 
 
 
